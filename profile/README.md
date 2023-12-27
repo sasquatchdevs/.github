@@ -1,12 +1,8 @@
-## Hi there 👋
+<!-- PROJECT LOGO -->
+<p align="center">
+  <a href="https://github.com/sasquatchdevs">
+   <img src="https://i.ibb.co/SxGN79J/1f835ade-13fc-48f9-8264-3146cd0ea71d.webp" alt="Sasquatch Devs Banner">
+  </a>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  <h3 align="center">Sasquatch Devs</h3>
+</p>
